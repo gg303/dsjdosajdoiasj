@@ -1,0 +1,9 @@
+{
+	"ip":"klasa7C_SPBB.aternos.me",
+	"port": 17411,
+	"name": "afkbot",
+	"auto-night-skip":"false",
+	"login-enabled":"false",
+	"register-cmd":"/register (type_ur_pass_here(remember_no_spaces)) (type_ur_pass_here(remember_no_spaces))",
+	"login-cmd":"/login (type_ur_pass_here)"
+}
